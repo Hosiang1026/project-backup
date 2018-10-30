@@ -2303,7 +2303,7 @@ var content = __webpack_require__(17);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(5)("d1059eb4", content, true);
+var update = __webpack_require__(5)("4877ca4e", content, true);
 
 /***/ }),
 /* 26 */
@@ -2316,7 +2316,7 @@ var content = __webpack_require__(18);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(5)("158b0032", content, true);
+var update = __webpack_require__(5)("58c3a3fc", content, true);
 
 /***/ }),
 /* 27 */
